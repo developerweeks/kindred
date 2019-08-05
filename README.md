@@ -1,1 +1,2 @@
-# kindred
+# Kindred Module
+In the spirit of machine learning, this module collects associations between your nodes for later grouping and analysis.  Yes, much of this could be done with something like Google Analytics, but I like to have the data under my control.  With GDPR and other considerations, this module will not collect any identifiable information.  The intent and extend of this module is to identify which urls of your site are kindred to each other, which share the same topic or interest group or information DNA.  User traffic will reveal this to us, and from that we can extrapolate the elements of greatest interest in each segment of the site.

@@ -1,0 +1,6 @@
+name = Kindred
+description: 'Organic clustering of site pages.' =
+package = Custom
+version = 7.x
+core = 7.x
+project = kindred
