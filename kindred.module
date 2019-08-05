@@ -10,11 +10,11 @@
  */
 function example_menu() {
   // The paths given here need to match the ones in example.routing.yml exactly.
-  $items['/mypage/page'] = array(
-    'title' => 'First page',
-    'description' => 'This is a example page.',
+  $items['/admin/reports/kindred'] = array(
+    'title' => 'Kindred Data Overview',
+    'description' => 'The highlights of what has been collected',
     // The name of the route from example.routing.yml
-    'route' => 'example.my_page',
+    'route' => 'kindred.overview',
   );
   return $items;
 }
