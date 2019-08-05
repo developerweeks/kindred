@@ -1,0 +1,7 @@
+kindred.overview:
+  path: '/admin/reports/kindred'
+  defaults:
+    _controller: '\Drupal\kindred\Controller\KindredController::overview'
+    _title: 'Overview of Kindred Data'
+  requirements: 
+    _permission: 'view kindred'
